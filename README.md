@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @affancik
-- 👀 I’m interested in Programming Languages, AI and Machine Learning
-- 🌱 I’m currently learning AI/ML to learn how it works and how this could help business to perform better
-- 💞️ I’m looking to collaborate on AI/ML projects
+- 👀 Enjoying the new possibilities through vibecoding. How technologies have evolved very far.
 - 📫 How to reach me affancik@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: The last time I code was 2006 
